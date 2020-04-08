@@ -1,0 +1,13 @@
+oi/theZalesskiy/lang/LangRepository.class
+oi/theZalesskiy/hello/HelloService.class
+oi/theZalesskiy/hello/HelloServlet.class
+oi/theZalesskiy/App.class
+oi/theZalesskiy/lang/LangServlet.class
+oi/theZalesskiy/lang/LangService.class
+oi/theZalesskiy/HibernateUtil.class
+oi/theZalesskiy/lang/Lang.class
+oi/theZalesskiy/todo/TodoRepository.class
+oi/theZalesskiy/App$1.class
+oi/theZalesskiy/todo/Todo.class
+oi/theZalesskiy/todo/TodoServlet.class
+oi/theZalesskiy/lang/LangDTO.class
